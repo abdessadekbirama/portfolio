@@ -1,4 +1,4 @@
-Portfolio
+#Portfolio
 Welcome to my personal portfolio repository! This is where I showcase my web development projects, skills, and experience. Feel free to explore my work and get in touch if you'd like to collaborate or learn more about my work.
 
 🚀 About Me
@@ -18,6 +18,9 @@ Tools: VS Code, npm, Webpack, Figma, Postman
 Feel free to reach out to me for any questions, collaborations, or opportunities:
 
 📧 Email: abdessadekbirama1@gmail.com
+
 🌐 LinkedIn: https://www.linkedin.com/in/abdessadek-birama-16a28730b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BT%2B6gJHNjSbuePx27uwZWWA%3D%3D
+
 🌍 Website: https://abdessadek-portfolio.vercel.app
+
 Thank you for visiting my portfolio!
