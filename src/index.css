@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.anim
+{
+    animation: anim .5s alternate infinite;
+}
+@keyframes anim {
+    from{opacity: 0;scale: 0;}
+    to{opacity: 1;scale: 1;}
+}
