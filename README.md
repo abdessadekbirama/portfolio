@@ -1,50 +1,27 @@
-# React + TypeScript + Vite
+# Portfolio
+Welcome to my personal portfolio repository! This is where I showcase my web development projects, skills, and experience. Feel free to explore my work and get in touch if you'd like to collaborate or learn more about my work.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 About Me
+Hi there! I'm Abdessadek Birama, a passionate web developer with expertise in creating interactive and user-friendly websites and applications. I specialize in front-end and back-end development, with a focus on clean, scalable, and performance-optimized code.
 
-Currently, two official plugins are available:
+## 🌍 Location: Morocco
+💻 Technologies I Use: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB,Tailwindcss and more!
+I love learning new technologies and continuously improving my skills. This portfolio is a collection of the projects I’ve worked on and showcases my abilities in the world of web development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Skills
+Front-End: HTML5, CSS3, JavaScript, React, SASS, Bootstrap, TailwindCSS
+Back-End: Node.js, Express, MongoDB, MySql, PHP
+Version Control: Git, GitHub, GitLab
+Tools: VS Code, npm, Webpack, Figma, Postman
 
-## Expanding the ESLint configuration
+## 📫 Get In Touch
+Feel free to reach out to me for any questions, collaborations, or opportunities:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+📧 Email: abdessadekbirama1@gmail.com
 
-- Configure the top-level `parserOptions` property like this:
+🌐 LinkedIn: [abdessadekbirama](https://www.linkedin.com/in/abdessadek-birama-16a28730b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BT%2B6gJHNjSbuePx27uwZWWA%3D%3D
+)
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+🌍 Website: https://abdessadek-portfolio.vercel.app
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+Thank you for visiting my portfolio!
