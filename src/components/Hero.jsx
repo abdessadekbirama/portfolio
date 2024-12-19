@@ -51,12 +51,13 @@ const Writing = ()=>{
 
 function Hero(){
     return(
-        <div className="pt-32 flex flex-col items-center sm:flex-row justify-center sm:gap-10">
+        <div className="pt-32 flex items-center gap-10 sm:flex-row flex-col-reverse justify-center">
             <div className="text-3xl">
                 <h1>Hi,I am Abdessadek Birama</h1>
                 <h1 className="flex gap-2">I am <Writing/></h1>
             </div>
-            <img className="size-40 border-4 border-green-500 rounded-full shadow-[0_0_20px_1px_green]" src="/imgs/html.png" alt=""/>
+            <img 
+            className="size-40 profile-shadow" src="/imgs/chat-gpt.png" alt=""/>
         </div>
     )
 }
