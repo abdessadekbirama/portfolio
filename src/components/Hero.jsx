@@ -42,7 +42,7 @@ const Writing = ()=>{
         return()=> clearInterval(writeInterval);
     })
     return(
-        <span className={`text-blue-800 font-semibold flex gap-1 ${!light?"text-blue-400":""}`}>
+        <span className={`font-semibold flex gap-1 bg-gradient-to-br text-transparent bg-clip-text ${!light?" from-[#09daff] to-[#ffaef3]":"from-[blue] to-[#ff00e1]"}`}>
             {text}
             <span className={`bg-blue-600 p-[2px] ${anim?"anim":""}`}></span>
         </span>
@@ -52,7 +52,7 @@ const Writing = ()=>{
 function Hero(){
     return(
         <div className="pt-32 flex flex-col items-center sm:flex-row justify-center sm:gap-10">
-            <div className="text-2xl">
+            <div className="text-3xl">
                 <h1>Hi,I am Abdessadek Birama</h1>
                 <h1 className="flex gap-2">I am <Writing/></h1>
             </div>
