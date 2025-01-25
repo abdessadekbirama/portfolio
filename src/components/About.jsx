@@ -21,10 +21,10 @@ function About(){
                 continue learning and developing impactful projects.Let's connect and build smething amazing!
             </p>
             <div className="flex justify-center gap-3 mt-10">
-                <a href="" className="text-3xl text-green-600"><Icon icon={whatsIcn}/></a>
-                <a href="" className="text-3xl text-blue-700"><Icon icon={faceIcn}/></a>
-                <a href="" className="text-3xl text-pink-600"><Icon icon={instaIcn}/></a>
-                <a href="" className="text-3xl text-blue-500"><Icon icon={lnkdnIcn}/></a>
+                <a href="wa.me/+212675309058" className="text-3xl text-green-600"><Icon icon={whatsIcn}/></a>
+                <a href="https://www.facebook.com/share/19WKk8pV9q/" className="text-3xl text-blue-700"><Icon icon={faceIcn}/></a>
+                <a href="https://www.instagram.com/biramaabdessadek?igsh=YzljYTk1ODg3Zg==‎‏" className="text-3xl text-pink-600"><Icon icon={instaIcn}/></a>
+                <a href="https://www.linkedin.com/in/abdessadek-birama-16a28730b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="text-3xl text-blue-500"><Icon icon={lnkdnIcn}/></a>
             </div>
         </motion.div>
     )
