@@ -1,24 +1,30 @@
 const projects = [
     {
-        title:"Blog",
-        img:"html.png",
-        description:"i created a interactive blog with responsive design",
+        title:"News",
+        img:"blog.jpg",
+        description:"A News App delivering real-time updates and headlines.
+
+",
         source:"https://github.com/abdessadekbirama/blog.git",
-        demo:"https://abdessadekbirama.github.io/blog/"
+        demo:"https://abdo-blog.vercel.app/"
     },
     {
-        title:"task-manger",
-        img:"css.png",
-        description:"i created a interactive blog with responsive design",
-        source:"https://github.com/abdessadekbirama/task-manger.git",
-        demo:"https://abdessadekbirama.github.io/task-manger/"
+        title:"Weather app",
+        img:"weather.jpg",
+        description:"A Weather App providing real-time forecasts and conditions.
+
+",
+        source:"https://github.com/abdessadekbirama/weather-app.git",
+        demo:"https://abdo-weather.vercel.app/"
     },
     {
-        title:"e-commerce",
-        img:"js.png",
-        description:"i created a interactive blog with responsive design",
-        source:"https://github.com/abdessadekbirama/e-commerce.git",
-        demo:"https://abdessadekbirama.github.io/e-commerce/"
+        title:"Vidube",
+        img:"vidube.jpg",
+        description:"A Video App for streaming and watching content easily.
+
+",
+        source:"https://github.com/abdessadekbirama/vidube.git",
+        demo:"https://vidube.vercel.app/"
     },
     
 ]
