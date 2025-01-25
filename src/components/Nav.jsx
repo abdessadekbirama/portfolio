@@ -25,7 +25,7 @@ function Nav(){
     }
     return(
         <div className={`flex items-center justify-between p-2 fixed top-0 w-full z-10 backdrop-blur-xl bg-transparent`}>
-            <div className="w-10"><a href="#" onClick={()=>{setActive("")}}><img src="/imgs/web-development_1688400.png" className="rounded-full" alt=""/></a></div>
+            <div className="w-10"><a href="#" onClick={()=>{setActive("")}}><img src="/imgs/web-development_1688400.png" alt=""/></a></div>
             <div className="flex gap-2 items-center">
                 { 
                     light&&
