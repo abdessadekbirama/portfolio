@@ -14,11 +14,7 @@ function About(){
          id="About" className="pt-14">
             <h1 className="text-4xl ml-10 font-semibold">About me</h1>
             <p className="ml-10 p-5 text-lg max-w-[800px]">
-                Hi, I'm Abdessadek Birama , a passionate Full Stack Web Developer
-                and student. I sepecialize in building responsive and dynamic web
-                applications using modern technologies. I love solving problems
-                through code and creating seamless user experiences.My goal is to
-                continue learning and developing impactful projects.Let's connect and build smething amazing!
+                Hi, I'm Abdessadek Birama, a dedicated Full-Stack Web Developer and student. I have a strong passion for creating responsive and dynamic web applications with modern technologies. I enjoy tackling challenges through coding and enhancing user experiences. My mission is to keep expanding my knowledge and working on meaningful projects. Let’s connect and create something great together!
             </p>
             <div className="flex justify-center gap-3 mt-10">
                 <a href="https://wa.me/+212675309058" className="text-3xl text-green-600"><Icon icon={whatsIcn}/></a>
