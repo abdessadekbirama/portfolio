@@ -1,4 +1,4 @@
-8import { useContext, useState } from "react";
+import { useContext, useState } from "react";
 import { Icon } from "@iconify/react/dist/iconify.js";
 import phoneIcn from "@iconify-icons/bi/telephone-fill";
 import mailIcn from "@iconify-icons/bi/envelope-at-fill";
