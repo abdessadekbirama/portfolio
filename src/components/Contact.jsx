@@ -1,4 +1,4 @@
-import { useContext, useState } from "react";
+8import { useContext, useState } from "react";
 import { Icon } from "@iconify/react/dist/iconify.js";
 import phoneIcn from "@iconify-icons/bi/telephone-fill";
 import mailIcn from "@iconify-icons/bi/envelope-at-fill";
@@ -26,7 +26,7 @@ function Contact(){
             <a href="mailto:abdessadekbirama1@gmail.com" className="flex gap-4 my-5 ml-10">
                 <div className="bg-gray-300 text-[#9823c3] size-12 flex justify-center items-center text-2xl rounded-full"><Icon icon={mailIcn}/></div>
                 <div>
-                    <h1 className="font-semibold text-lg">Email</h1>
+                    <h1 className="font-semibold text-lg">Email hello world </h1>
                     <p className={`font-semibold ${light?"text-gray-600":"text-gray-300"}`}>abdessadekbirama1@gmail.com</p>
                 </div>
             </a>
